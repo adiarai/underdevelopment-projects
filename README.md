@@ -1,26 +1,14 @@
 # underdevelopment-projects
-Collection of ongoing software, AI, and data-driven projects currently under development, focusing on automation, machine learning, and scalable platforms.
-25. KI-basierte Text-zu-Video- & Animationsgenerierung (Ongoing)
-Dauer: 2025 – Heute
-Entwicklung eines KI-gestützten Systems zur Generierung von animierten und Echtzeit-Videos aus Textbeschreibungen, inspiriert von multimodalen KI-Plattformen. Fokus auf Systemdesign, Datenpipelines und Modellintegration.
-Konzeption der Architektur für Text-zu-Animation- und Text-zu-Video-Workflows
-Analyse und Integration generativer KI-Modelle für visuelle Inhalte
-Schwerpunkt auf Performance, Skalierbarkeit und Echtzeit-Rendering
-Tools: Python, Generative AI, Deep Learning, Computer Vision, APIs
-Link: Status: Derzeit in Arbeit
-26. Automatisierte Bewerbungsplattform für Studierende (Auto-Apply System, Ongoing)
-Dauer: 2025 – Heute
-Konzeption und Entwicklung einer jobportalähnlichen Plattform, die automatisierte Bewerbungen für Studierende ermöglicht, basierend auf Profil- und Skill-Matching.
-Design eines automatisierten Bewerbungsprozesses ohne manuelle Einzelbewerbungen
-Entwicklung von Matching-Logiken auf Basis von Qualifikationen, Standort und Jobanforderungen
-Analyse von Bewerbungsdaten zur Optimierung von Erfolgsquoten und Prozessautomatisierung
-Tools: Backend Framework (Laravel geplant), MySQL, SQL, Automatisierung, Datenanalyse
-Link: Status: Derzeit in Arbeit
-27. KI-gestützte globale Musik-Such- & Empfehlungsplattform (Konzept & Entwicklung)
-Dauer: 2025 – Heute
-Entwicklung eines Konzepts für eine KI-basierte Musikplattform zur Identifikation und Wiedergabe von viraler und trendender Musik aus verschiedenen globalen Online-Quellen.
-Konzeption eines Systems zur Aggregation von Musikdaten aus mehreren Plattformen
-Anwendung von KI-basierten Ranking- und Empfehlungssystemen zur Trendidentifikation
-Fokus auf Suchrelevanz, Nutzererlebnis und datengetriebene Musikauswahl
-Tools: KI-Empfehlungssysteme, APIs, Datenaggregation, Backend-Entwicklung
-Link: Status: Derzeit in Arbeit
+🚧 Under Development: Building the Next Generation of AI & Automation Platforms 🚀
+I’m currently working on a collection of ongoing software, AI, and data-driven projects focused on automation, machine learning, and scalable digital platforms. A few highlights:
+🤖 AI-Based Text-to-Video & Animation Generation
+ Developing a system that transforms text descriptions into animated and real-time videos, inspired by modern multimodal AI platforms. The focus is on system architecture, model integration, performance, and scalability.
+🎯 Automated Job Application Platform for Students (Auto-Apply System)
+ Designing a job-portal-like platform that enables automatic applications based on profile and skill matching—eliminating manual applications and optimizing success rates through data-driven decision-making.
+🎵 AI-Powered Global Music Search & Recommendation Platform
+ Conceptualizing an AI-based platform to discover and recommend viral and trending music worldwide, aggregating content from multiple online sources and applying intelligent ranking and recommendation models.
+🔧 Tech Stack & Focus Areas
+ Python, Generative AI, Machine Learning, Data Pipelines, APIs, Backend Development, Automation, SQL
+All projects are currently in active development, with a strong emphasis on scalability, performance, and real-world impact.
+If you’re interested in AI systems, automation, or data-driven platforms, I’d love to connect and exchange ideas.
+hashtag#AI hashtag#MachineLearning hashtag#GenerativeAI hashtag#Automation hashtag#DataEngineering hashtag#SoftwareDevelopment hashtag#Startups hashtag#OngoingProjects
